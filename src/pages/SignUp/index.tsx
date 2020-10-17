@@ -1,5 +1,5 @@
 import React, { useCallback, useRef } from 'react';
-import { FiLogIn, FiMail, FiUser, FiLock, FiArrowLeft } from 'react-icons/fi';
+import { FiMail, FiUser, FiLock, FiArrowLeft } from 'react-icons/fi';
 import { Form } from '@unform/web';
 import {FormHandles} from '@unform/core';
 import * as Yup from 'yup';
